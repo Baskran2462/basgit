@@ -1,0 +1,41 @@
+ Introduction to Github :
+         *Collaboration and version control are important for software development. GitHub has become an important platform for developers, enabling seamless teamwork and efficient project management. 
+         *In this article, we’ll introduce you to GitHub, explaining what it is, how it works, and why it’s a must-have tool for developers.
+What is GitHub :
+         *GitHub is a web-based platform that uses Git, a version control system, to help developers manage and track changes in their code. It allows multiple people to collaborate on a project, track revisions, and contribute to code from anywhere in the world..
+         *GitHub offers both free and paid plans, catering to individuals and large organizations alike.
+Key Features of GitHub
+         1. Version Control
+         2. Repositories
+         3. Branches
+         4. Pull Requests
+         5. Issues and Project Management
+         6. Actions and Automation
+Getting Started with GitHub :
+        1. Creating a GitHub Account
+                    Step 1: Go to github.com and enter the required user credentials asked on the site and then click on the SignUp for GitHub button.
+        2. Creating a Repository
+                    To create a new repository on GitHub, follow these steps:
+                    Step 1: Then Click on Finish Sign Up. The account has been created. The user is automatically redirected to your Dashboard. 
+To create a new repository on GitHub, follow these steps:
+        *Go to GitHub and log in.
+        *Click the “+” icon in the upper right corner and select “New repository.”
+        *Enter a repository name and description.
+        *Choose whether the repository will be public or private.
+        *Click “Create repository."
+How To Upload Existing Repository to GitHub 
+       *The system should have git installed in it if not install git. Make sure to choose Run git from Windows Command prompt option during installation. Otherwise, open git bash in place of step 
+       *Open Terminal (for Mac users) or the command prompt (for Windows and Linux users).
+       *Change the current working directory to your local project
+       *Initialize the local directory as a git repository in different ways as described in the image.
+COMMANDS:
+       ***git init 
+       ***git add .
+       ***git commit -m 'First commit'
+       ***git remote add origin remote repository URL
+       ***git remote -v
+       ***git push origin master
+       ***git pull
+
+
+
